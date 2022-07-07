@@ -3,6 +3,6 @@
 ##### Link Para Estudo HTML (Mdn Web Docs_) https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element
 ##### Link de Gifs Animados de tecnologia https://gifs.alphacoders.com/by_category/30
 ##### Link de Imagens https://br.freepik.com/
-# CSS Básico - Formatando Tags
+# Links-CSS Básico - Formatando Tags
 ##### Link Para Estudo CSS (Mdn Web Docs_) https://developer.mozilla.org/pt-BR/docs/Learn/Getting_started_with_the_web/CSS_basics
 ##### Link https://gist.github.com/Jair1990silva/55eb68888ca1896fc16486b170034bad
