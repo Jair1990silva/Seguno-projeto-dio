@@ -7,5 +7,5 @@
 
 ## Links-CSS Básico - Formatando Tags
 
-##### Link Para Estudo CSS (Mdn Web Docs_) [https://developer.mozilla.org/pt-BR/docs/Learn/Getting_started_with_the_web/CSS_basics]
 ##### Link (GitHub) [https://gist.github.com/Jair1990silva/55eb68888ca1896fc16486b170034bad]
+##### Link Para Estudo CSS (Mdn Web Docs_) [https://developer.mozilla.org/pt-BR/docs/Learn/Getting_started_with_the_web/CSS_basics]
